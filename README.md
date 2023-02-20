@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 - 🔭 Currently, I am a graduate student at Okayama University, Japan
 - 🌱 currently I’m  learning Deep learning, Machine Learning
 - 👯 I’m looking to collaborate on on WLAN using Deep Neural Network.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about WLAN.
+- 💬 Ask me about WLAN and research paper.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sujan-chandra-roy-381131109/) 
 
 
