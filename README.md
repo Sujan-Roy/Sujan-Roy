@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Roy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
     
-## 🌐 Socials:
+## 🌐 Social Link:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujan-chandra-roy-381131109/) 
  [![GitHub Followers](https://img.shields.io/github/followers/Sujan-Roy?style=social)]([/github/followers/:user?label=Follow](https://github.com/Sujan-Roy?tab=followers))
  [![GitHub Followers](https://img.shields.io/github/watchers/Sujan-Roy/Sujan-Roy?style=social)]([/github/followers/:user?label=Follow](https://github.com/Sujan-Roy/Sujan-Roy))
