@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about WLAN and research paper.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sujan-chandra-roy-381131109/) 
 
-
-# <p align="center"> 🏆  DataCamp Achievements  🏆 </p> 
 <!--
+# <p align="center"> 🏆  DataCamp Achievements  🏆 </p> 
+
 <img src="https://github.com/ahammadmejbah/AHAMMADMEJBAH/blob/main/Super.png" alt="DataCamp">
 <img src="https://github.com/ahammadmejbah/AHAMMADMEJBAH/blob/main/DataCampData.png" alt="DataCamp">
 -->
