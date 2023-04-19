@@ -15,9 +15,8 @@ Currently, I am a graduate student at Okayama University, Japan. research intere
 Here are some ideas to get you started:
 
 - 🔭 Currently, I am a graduate student at Okayama University, Japan
-- 🌱 Currently I am  learning Deep learning, Machine Learning
 - 👯 I am looking to collaborate on on WLAN using Deep Neural Network.
-- 💬 Ask me about WLAN and research paper.
+- 💬 Ask me about WLAN, ML, DL research paper.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sujan-chandra-roy-381131109/) 
 - 
 # Tech Used
@@ -38,18 +37,3 @@ Here are some ideas to get you started:
  [![GitHub Followers](https://img.shields.io/github/watchers/Sujan-Roy/Sujan-Roy?style=social)]([/github/followers/:user?label=Follow](https://github.com/Sujan-Roy/Sujan-Roy))
  
  ![](https://komarev.com/ghpvc/?username=Sujan-Roy&color=dc143c)
-
-<!--
-**Sujan-Roy/Sujan-Roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
