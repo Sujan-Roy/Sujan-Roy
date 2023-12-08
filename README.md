@@ -8,13 +8,9 @@
 
 <p align="center"> <a href="https://scholar.google.com/citations?user=JORIB_EAAAAJ&hl=en" target="_blank"><img alt="" src="https://img.shields.io/badge/Website-EA4C89?style=normal&logo=dribbble&logoColor=white" style="vertical-align:center" /></a> <a href="https://www.linkedin.com/in/sujan-chandra-roy-381131109/}" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=normal&logo=linkedin&logoColor=white" style="vertical-align:center" /></a> </p>
 
-# Description
-Currently, I am a graduate student at Okayama University, Japan. research interests include wireless communication, deep learning, machine learning
-
 # Features
 Here are some ideas to get you started:
 
-- 🔭 Currently, I am a graduate student at Okayama University, Japan
 - 👯 I am looking to collaborate on on WLAN using Deep Neural Network.
 - 💬 Ask me about WLAN, ML, DL research paper.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sujan-chandra-roy-381131109/) 
